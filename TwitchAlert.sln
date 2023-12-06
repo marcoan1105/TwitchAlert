@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Gui", "1 - Gui", "{F7BB18CD-A305-4EB2-884F-59FD68CD849A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{3917CA40-8474-4EC5-928C-4675C737C845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchAlert.Application", "TwitchAlert.Application\TwitchAlert.Application.csproj", "{5C0F1922-B68F-46F6-A423-BAA3E4CAD850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchAlert.TrayIcon", "TwitchAlert.TrayIcon\TwitchAlert.TrayIcon.csproj", "{0B9CC9FD-5911-4D00-883E-B253B1CA1D30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0F1922-B68F-46F6-A423-BAA3E4CAD850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0F1922-B68F-46F6-A423-BAA3E4CAD850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0F1922-B68F-46F6-A423-BAA3E4CAD850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0F1922-B68F-46F6-A423-BAA3E4CAD850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9CC9FD-5911-4D00-883E-B253B1CA1D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9CC9FD-5911-4D00-883E-B253B1CA1D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9CC9FD-5911-4D00-883E-B253B1CA1D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9CC9FD-5911-4D00-883E-B253B1CA1D30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5C0F1922-B68F-46F6-A423-BAA3E4CAD850} = {3917CA40-8474-4EC5-928C-4675C737C845}
+		{0B9CC9FD-5911-4D00-883E-B253B1CA1D30} = {F7BB18CD-A305-4EB2-884F-59FD68CD849A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3898BA2-73A0-44AD-9A92-2A8F377B6B86}
+	EndGlobalSection
+EndGlobal
