@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vosSaJ6YV7fYmRSQlam6M4uVB1lq2uTaX41XKhVSeFA145c0m0JUMr41/mAiWZrcxPBq1wLczNNHxGWb1VTRvw==",
+  "dgSpecHash": "4dl4OE9OfL8klvzHnQ9T0KUafwhoNSQwcGHm3EdQbjzMiJY+G90ttJ/3Di+fAIbkaw7/F8/oXB7VHW3PNSzQ7A==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj",
+  "projectFilePath": "D:\\Projetos\\GitHub\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marco Antonio\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Marco Antonio\\.nuget\\packages\\mailkit\\4.3.0\\mailkit.4.3.0.nupkg.sha512",

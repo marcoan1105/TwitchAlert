@@ -10,3 +10,15 @@ D:\Projetos\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\TwitchAlert.App
 D:\Projetos\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\refint\TwitchAlert.Application.dll
 D:\Projetos\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\TwitchAlert.Application.pdb
 D:\Projetos\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\ref\TwitchAlert.Application.dll
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\bin\Debug\net6.0\TwitchAlert.Application.deps.json
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\bin\Debug\net6.0\TwitchAlert.Application.dll
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\bin\Debug\net6.0\TwitchAlert.Application.pdb
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\TwitchAlert.Application.csproj.AssemblyReference.cache
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\TwitchAlert.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\TwitchAlert.Application.AssemblyInfoInputs.cache
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\TwitchAlert.Application.AssemblyInfo.cs
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\TwitchAlert.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\TwitchAlert.Application.dll
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\refint\TwitchAlert.Application.dll
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\TwitchAlert.Application.pdb
+D:\Projetos\GitHub\TwitchAlert\TwitchAlert.Application\obj\Debug\net6.0\ref\TwitchAlert.Application.dll

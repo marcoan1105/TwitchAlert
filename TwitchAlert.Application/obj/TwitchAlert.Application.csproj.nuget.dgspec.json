@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj": {}
+    "D:\\Projetos\\GitHub\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj": {
+    "D:\\Projetos\\GitHub\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj",
+        "projectUniqueName": "D:\\Projetos\\GitHub\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj",
         "projectName": "TwitchAlert.Application",
-        "projectPath": "D:\\Projetos\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj",
+        "projectPath": "D:\\Projetos\\GitHub\\TwitchAlert\\TwitchAlert.Application\\TwitchAlert.Application.csproj",
         "packagesPath": "C:\\Users\\Marco Antonio\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\TwitchAlert\\TwitchAlert.Application\\obj\\",
+        "outputPath": "D:\\Projetos\\GitHub\\TwitchAlert\\TwitchAlert.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marco Antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
